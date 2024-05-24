@@ -75,4 +75,3 @@ userTwo.emailId="aman@deep.com"
 
 console.log(userOne.emailId)
 console.log(userTwo.emailId)
-ehrsdkh
