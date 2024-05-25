@@ -19,6 +19,19 @@ const newString=gameName.substring(0,5)
 console.log(newString)
 
 const anoterString=gameName.slice(-8, 5)
-console.log(anoterString
-    
-)
+console.log(anoterString);
+
+const newStringone= "  aman  "
+console.log(newStringone);
+console.log(newStringone.trim());
+
+
+const url="https://aman.com/aman%30singh"
+console.log(url.replace('%20', '-'))
+//console.log(url.includes('aman'))
+console.log(url.includes('deep'))
+
+console.log(gameName.split('-'))
+
+
+
