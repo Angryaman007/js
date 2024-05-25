@@ -32,6 +32,7 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('deep'))
 
 console.log(gameName.split('-'))
+console.log(Math.random)
 
 
 
